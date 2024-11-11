@@ -10,8 +10,8 @@
 ---
 
 ## 👨‍💻 About Me
-- 💻 Specializing in **.NET** and **C#**, exploring **Azure** and **microservices**
-- 🌄 Based in Trollhättan, inspired by the local waterfalls 🌊
+- 💻 Specializing in **.NET** and **C#**,
+- 🌄 Based in Trollhättan
 
 ---
 
@@ -28,7 +28,7 @@
 ---
 
 ## 🤝 Let's Collaborate!
-Open to working on exciting **.NET**, **React**, or **Azure** projects. Reach out and let's build something great! 
+Open to working on exciting **.NET**, projects. Reach out and let's build something great! 
 
 ![Footer GIF](https://media.giphy.com/media/R8bcitRz9ZBP2/giphy.gif)
 
