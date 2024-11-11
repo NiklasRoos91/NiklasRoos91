@@ -1,4 +1,4 @@
-# 👋 Hej! I'm Niklas – Fullstack Developer from Trollhättan 🇸🇪
+# 👋 Hej! I'm Niklas – Fullstack Developer student from Trollhättan 🇸🇪
 
 🎓 Passionate **.NET** developer with a solid tech stack. Based in Trollhättan, Sweden. 
 
