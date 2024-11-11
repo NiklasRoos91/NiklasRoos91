@@ -5,7 +5,7 @@
 ---
 
 ## 🌍 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourprofile) | [Email](mailto:niklas_roos@live.se)
+[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Email](mailto:niklas_roos@live.se)
 
 ---
 
