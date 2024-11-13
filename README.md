@@ -1,4 +1,4 @@
-# 👋 Hej! I'm Niklas – Fullstack Developer student from Trollhättan 🇸🇪
+# 👋 Hej! I'm Niklas – Developer student from Trollhättan 🇸🇪
 
 🎓 Passionate **.NET** developer with a solid tech stack. Based in Trollhättan, Sweden. 
 
@@ -26,10 +26,4 @@
 - **[Project2](https://github.com/yourusername/project2)** – Data Dashboard (TypeScript, Node.js, SQL)
 
 ---
-
-## 🤝 Let's Collaborate!
-Open to working on exciting **.NET**, projects. Reach out and let's build something great! 
-
-![Footer GIF](https://media.giphy.com/media/R8bcitRz9ZBP2/giphy.gif)
-
 
