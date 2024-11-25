@@ -14,10 +14,7 @@
 
 ---
 
-🛠 Languages and Tools
-dot-net logo csharp logo visualstudio logo illustrator logo photoshop logo canva logo html5 logo css3 logo
-
-## 🛠️ Tech Stack
+## 🛠️ Languages and Tools
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
