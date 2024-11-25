@@ -1,4 +1,4 @@
-#Niklas Röös
+Niklas Röös
 
 🎓 Aspiring System Developer **.NET**  
 
