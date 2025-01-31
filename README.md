@@ -1,12 +1,12 @@
-Niklas Röös
-
-🎓 Aspiring System Developer **.NET**  
+Hey
+My name is Niklas and I'm soon to be Full-stack Developer, from Sweden.
 
 ---
 
 ## 👨‍💻 About Me
-- 💻 Learning **.NET** and **C#**,
+- 📚 I'm currently learning C# .NET
 - 🌄 Living in Trollhättan, Sweden
+-🎯 Goals: Complete my studies and become a Developer
 
 ---
 ## 🌍 Connect With Me
